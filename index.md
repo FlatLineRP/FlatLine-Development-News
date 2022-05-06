@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Heat Development
 
-You can use the [editor on GitHub](https://github.com/HeatHL2RP/Heat-Development-News/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://github.com/iamSkay2752/Conflict-Studios---Issues/blob/master/announcement.png?raw=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Our Discord](https://discord.gg/qHvwRbthP7) [My Github](https://github.com/iamSkay2752)
 
-### Markdown
+### 1.0.0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HeatHL2RP/Heat-Development-News/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   *  HUD
+   
+      ![](https://i2.paste.pics/GVDY1.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+   *  Combine HUD
+   
+      ![](https://i2.paste.pics/GVDYU.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+   *  City Code System
+   *  Dispatch Systems
+   
+      ![](https://i2.paste.pics/GVDYI.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+   *  BMD
+   
+      ![](https://i2.paste.pics/GVDX8.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+   * Door System
+   
+   * Chat Box Edits
+   
+      ![](https://i2.paste.pics/GVE0U.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+      
+   * VGUI Edits
+   
+      ![](https://i2.paste.pics/GVE13.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+      
+      ![](https://i2.paste.pics/GVE1C.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+      
+      ![](https://i2.paste.pics/GVE1O.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+      
+      ![](https://i2.paste.pics/GVE1V.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+      
+      ![](https://i2.paste.pics/GVE22.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
+      
+   * Drunk System
+   
+   
