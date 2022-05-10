@@ -19,13 +19,13 @@
    *  BMD
    
       ![](https://i2.paste.pics/GVDX8.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
-   * Door System
+   *  Door System
    
-   * Chat Box Edits
+   *  Chat Box Edits
    
       ![](https://i2.paste.pics/GVE0U.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
       
-   * VGUI Edits
+   *  VGUI Edits
    
       ![](https://i2.paste.pics/GVE13.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
       
@@ -40,11 +40,11 @@
    * Drunk System
 ### 1.0.1
 
-   * CalcViewWeapon Changes
+   *  CalcViewWeapon Changes
 
       ![](https://i2.paste.pics/GWF0O.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
       
-   * Crafting System
+   *  Crafting System
    
       ![](https://i2.paste.pics/GWF13.png?trs=376da108b7fa731232fc444e7fa8e936c9848f9402c1c59994b73df4663e4275)
    
